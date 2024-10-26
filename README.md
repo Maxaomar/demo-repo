@@ -1,4 +1,5 @@
-#git commands
+      #Git Commands
+
 clone = bring a repository that is hosted somewhere like Github into a folder into your local machine
 Add  =  Tracks your files and changes in Git
 Commit =  saves your file in Git
